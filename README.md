@@ -4,11 +4,11 @@
 ## I'm an MBA grad, software engineer, and an aspiring product manager
 - 🌱 I’m currently learning Machine Learning and GCP
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... SDLC, Tech Product Management, Cloud, Product Life cycle and ......anything!!
+- 💬 Ask me about ... SDLC, Tech Product Management, Cloud, Product Life cycle, Machine Learning and ......anything that falls under Tech!!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have traveled to the world's highest motorable road in the Himalayas on my motorcycle!!
 
-### Talk with me, I am kinda awesome:
+### Talk with me, I am a great conversationalist!!:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />

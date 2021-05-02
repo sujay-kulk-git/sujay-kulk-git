@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... SDLC, Tech Product Management, Cloud, Product Life cycle and ......anything!!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have travled to the world's highest motorable road in the Himalayas on my motorcycle!!
+- ⚡ Fun fact: I have traveled to the world's highest motorable road in the Himalayas on my motorcycle!!
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
